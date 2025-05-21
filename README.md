@@ -35,8 +35,8 @@ My objective is to secure an entry level cybersecurity role such as SOC Analyst 
     <td valign="top">
       <h2>CTF Writeups</h2>
       <ul>
-        <li><a href="/ctf/writeups/runner.md">The Runner (HTB)</a></li>
-        <li><a href="/ctf/writeups/network.md](https://medium.com/@sanidhya.mall61/hack-the-box-runner-b8ce51352f6c)">Network Analysis (THM)</a></li>
+        <li><a href="https://medium.com/@sanidhya.mall61/hack-the-box-runner-b8ce51352f6c">The Runner (HTB)</a></li>
+        <li><a href="/ctf/writeups/network.md]()">Network Analysis (THM)</a></li>
       </ul>
     </td>
   </tr>
