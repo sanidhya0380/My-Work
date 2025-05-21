@@ -26,8 +26,8 @@ My objective is to secure an entry level cybersecurity role such as SOC Analyst 
     <td valign="top">
       <h2>Projects</h2>
       <ul>
-        <li><a href="https://github.com/…">Encryption Tool</a><br>
-            Custom Python script for encrypt/decrypt workflows.</li>
+        <li><a href="https://github.com/sanidhya0380/My-Work/blob/main/Encrypt">Encryption Tool</a><br>
+            Python script for encrypt/decrypt Texts.</li>
         <li><a href="https://github.com/…">Another Project</a><br>
             Brief description.</li>
       </ul>
@@ -35,7 +35,8 @@ My objective is to secure an entry level cybersecurity role such as SOC Analyst 
     <td valign="top">
       <h2>CTF Writeups</h2>
       <ul>
-        <li><a href="https://medium.com/@sanidhya.mall61/hack-the-box-runner-b8ce51352f6c">The Runner (HTB)</a></li>
+        <li><a href="https://medium.com/@sanidhya.mall61/hack-the-box-runner-b8ce51352f6c">The Runner (HTB)</a>
+        Medium difficulty HTB machine</li>
         <li><a href="/ctf/writeups/network.md]()">Network Analysis (THM)</a></li>
       </ul>
     </td>
