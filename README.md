@@ -1,5 +1,5 @@
 # Hello, I'm Sanidhya Mall
-<a href="https/linkedin.com/in/sanidhya-mall-aa068b239"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sanidhya-mall-aa068b239"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Hi, I’m Sanidhya Mall — an aspiring cybersecurity professional passionate about ethical hacking and system defense. I enjoy solving CTF challenges, exploring real-world vulnerabilities, and building tools with Python. Currently pursuing my MCA with a focus on cybersecurity, I'm constantly learning and aiming to contribute to secure systems.
 
