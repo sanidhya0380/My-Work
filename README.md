@@ -11,11 +11,11 @@ My objective is to secure an entry level cybersecurity role such as SOC Analyst 
 
 
 ## Certifications
-I have 4 Major certification:-
-CEH or Certified Ethical Hacker from EC Council
-Google cyber security professional certification from Google
-Ethical hacking training from Internshala
-Hacking advance certification from Proga=ramming Hub
+I have 4 Major certification:- <br>
+CEH or Certified Ethical Hacker from EC Council <br>
+Google cyber security professional certification from Google <br>
+Ethical hacking training from Internshala <br>
+Hacking advance certification from Proga=ramming Hub <br>
 
 <div>
 <img src="https://img.shields.io/badge/-CEH%20(Certified%20Ethical%20Hacker)-d00000?&style=for-the-badge&logoColor=white" />
@@ -31,10 +31,10 @@ Hacking advance certification from Proga=ramming Hub
     <td valign="top">
       <h2>Projects</h2>
       <ul>
-        <li><a href="https://github.com/sanidhya0380/My-Work/blob/main/en3.py">Encryption Tool</a><br>
+        <li><a href="https://youtu.be/rc3-MfDVJuw">Encryption Tool</a><br>
             Python script for encrypt/decrypt Texts.</li>
-        <li><a href="https://github.com/…">Another Project</a><br>
-            Brief description.</li>
+        <li><a href="https://youtu.be/vz9OMpk8uQQ">Password Strength Analyzer</a><br>
+            Password Strength Checker tool</li>
       </ul>
     </td>
     <td valign="top">
