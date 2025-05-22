@@ -26,7 +26,7 @@ My objective is to secure an entry level cybersecurity role such as SOC Analyst 
     <td valign="top">
       <h2>Projects</h2>
       <ul>
-        <li><a href="(https://github.com/sanidhya0380/My-Work/blob/main/en3.py)">Encryption Tool</a><br>
+        <li><a href="https://github.com/sanidhya0380/My-Work/blob/main/en3.py">Encryption Tool</a><br>
             Python script for encrypt/decrypt Texts.</li>
         <li><a href="https://github.com/…">Another Project</a><br>
             Brief description.</li>
