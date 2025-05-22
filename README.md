@@ -11,6 +11,11 @@ My objective is to secure an entry level cybersecurity role such as SOC Analyst 
 
 
 ## Certifications
+I have 4 Major certification:-
+CEH or Certified Ethical Hacker from EC Council
+Google cyber security professional certification from Google
+Ethical hacking training from Internshala
+Hacking advance certification from Proga=ramming Hub
 
 <div>
 <img src="https://img.shields.io/badge/-CEH%20(Certified%20Ethical%20Hacker)-d00000?&style=for-the-badge&logoColor=white" />
