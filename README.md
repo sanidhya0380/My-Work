@@ -15,7 +15,7 @@ I have 4 Major certification:- <br>
 CEH or Certified Ethical Hacker from EC Council <br>
 Google cyber security professional certification from Google <br>
 Ethical hacking training from Internshala <br>
-Hacking advance certification from Proga=ramming Hub <br>
+Hacking advance certification from Programming Hub <br>
 
 <div>
 <img src="https://img.shields.io/badge/-CEH%20(Certified%20Ethical%20Hacker)-d00000?&style=for-the-badge&logoColor=white" />
