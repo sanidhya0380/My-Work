@@ -13,7 +13,7 @@ My objective is to secure an entry level cybersecurity role such as SOC Analyst 
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-CEH-000000?&style=for-the-badge&logo=Hack The Box&logoColor=white" />
+<img src="https://img.shields.io/badge/-CEH%20(Certified%20Ethical%20Hacker)-d00000?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Internshala-00aaff?&style=for-the-badge&logo=Internshala&logoColor=white" />
 <img src="https://img.shields.io/badge/-Advanced%20Hacking-6c63ff?&style=for-the-badge&logo=OpenSourceInitiative&logoColor=white" />
