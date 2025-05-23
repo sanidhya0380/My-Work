@@ -7,8 +7,17 @@ Hi, I’m Sanidhya Mall — an aspiring cybersecurity professional passionate ab
 My objective is to secure an entry level cybersecurity role such as SOC Analyst or Junior Penetration Tester, where I can leverage my hands‑on experience in ethical hacking, vulnerability assessment, and CTF challenges, while continuing to grow technically and help strengthen an organization’s security posture.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
+I excel in these given technical skills and many more:-
+Vulnerability Assessment
+Penetration Testing
+Web Application Testing 
+Firewall & IDS/IPS  Configuration 
+SIEM 
+Password Cracking 
+Network Scanning 
+Metasploit Framework 
+Wireshark 
+Kali Linux
 
 ## Certifications
 I have 4 Major certification:- <br>
@@ -18,13 +27,18 @@ Ethical hacking training from Internshala <br>
 Hacking advance certification from Programming Hub <br>
 
 <div>
+<a href = "https://drive.google.com/file/d/1_yLJtp-lCAiuuDfuLFpiDl-asY07dwWi/view?usp=drive_link">
 <img src="https://img.shields.io/badge/-CEH%20(Certified%20Ethical%20Hacker)-d00000?&style=for-the-badge&logoColor=white" />
+</a>
 <a href="https://coursera.org/verify/professional-cert/OOM3P24K7NKP" target="_blank">
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </a>
+<a href = "https://drive.google.com/file/d/1qqpc2LZpuD326fBlEEAsiatX_-dTUjGI/view?usp=drive_link">
 <img src="https://img.shields.io/badge/-Internshala-00aaff?&style=for-the-badge&logo=Internshala&logoColor=white" />
+</a>
+<a href = "https://drive.google.com/file/d/1Cnd0pDqVt1mdFqPDrYRxwxtfIybZc4b3/view?usp=drive_link">
 <img src="https://img.shields.io/badge/-Advanced%20Hacking-6c63ff?&style=for-the-badge&logo=OpenSourceInitiative&logoColor=white" />
-
+</a>
 </div>
 
 ## Projects
