@@ -58,7 +58,8 @@ Hacking advance certification from Programming Hub <br>
       <ul>
         <li><a href="https://medium.com/@sanidhya.mall61/hack-the-box-runner-b8ce51352f6c">The Runner (HTB)</a>
         Medium difficulty HTB machine</li>
-        <li><a href="/ctf/writeups/network.md]()">Network Analysis (THM)</a></li>
+        <li><a href="https://medium.com/@sanidhya.mall61/try-hack-me-mayhem-0927a5953bb0">Mayhem (THM)</a>
+        Medium difficulty TryHackMe machine</li>
       </ul>
     </td>
   </tr>
