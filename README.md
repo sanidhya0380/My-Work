@@ -7,7 +7,7 @@ Hi, I’m Sanidhya Mall — an aspiring cybersecurity professional passionate ab
 My objective is to secure an entry level cybersecurity role such as SOC Analyst or Junior Penetration Tester, where I can leverage my hands‑on experience in ethical hacking, vulnerability assessment, and CTF challenges, while continuing to grow technically and help strengthen an organization’s security posture.
 
 ## Skills
-I excel in these given technical skills and many more:-
+I excel in these given technical skills and many more:- <br>
 Vulnerability Assessment <br>
 Penetration Testing <br>
 Web Application Testing  <br>
