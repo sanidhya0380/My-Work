@@ -8,16 +8,16 @@ My objective is to secure an entry level cybersecurity role such as SOC Analyst 
 
 ## Skills
 I excel in these given technical skills and many more:-
-Vulnerability Assessment
-Penetration Testing
-Web Application Testing 
-Firewall & IDS/IPS  Configuration 
-SIEM 
-Password Cracking 
-Network Scanning 
-Metasploit Framework 
-Wireshark 
-Kali Linux
+Vulnerability Assessment <br>
+Penetration Testing <br>
+Web Application Testing  <br>
+Firewall & IDS/IPS  Configuration <br>
+SIEM <br>
+Password Cracking <br>
+Network Scanning <br>
+Metasploit Framework <br>
+Wireshark <br>
+Kali Linux <br>
 
 ## Certifications
 I have 4 Major certification:- <br>
