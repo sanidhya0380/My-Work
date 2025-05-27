@@ -6,18 +6,21 @@ Hi, I’m Sanidhya Mall — an aspiring cybersecurity professional passionate ab
 ## Objective
 My objective is to secure an entry level cybersecurity role such as SOC Analyst or Junior Penetration Tester, where I can leverage my hands‑on experience in ethical hacking, vulnerability assessment, and CTF challenges, while continuing to grow technically and help strengthen an organization’s security posture.
 
-## Skills
-I excel in these given technical skills and many more:- <br>
-Vulnerability Assessment <br>
-Penetration Testing <br>
-Web Application Testing  <br>
-Firewall & IDS/IPS  Configuration <br>
-SIEM <br>
-Password Cracking <br>
-Network Scanning <br>
-Metasploit Framework <br>
-Wireshark <br>
-Kali Linux <br>
+## Experience
+🔹 Cybersecurity Intern at <br>
+Deltaware Solution — May 2025 – Present <br>
+Assisting in network and system security analysis.<br>
+Supporting internal audits, vulnerability assessments, and threat analysis.<br>
+Gaining hands-on experience with real-world cybersecurity workflows.
+
+🔹 Cybersecurity Intern at <br>
+ <a href="https://drive.google.com/file/d/1dBAe7Ub-abTnYp2BgEspfXlhgv8Hj7aS/view?usp=sharing" target="_blank">
+    NullClass EdTech
+  </a> — Mar 2024 – May 2024<br>
+
+Performed manual web app testing using OWASP Top 10 methods.<br>
+Identified real vulnerabilities through full-scope penetration testing.<br>
+Submitted valid reports on live apps via major bug bounty platforms.
 
 ## Certifications
 I have 4 Major certification:- <br>
@@ -40,6 +43,19 @@ Hacking advance certification from Programming Hub <br>
 <img src="https://img.shields.io/badge/-Advanced%20Hacking-6c63ff?&style=for-the-badge&logo=OpenSourceInitiative&logoColor=white" />
 </a>
 </div>
+
+## Skills
+I excel in these given technical skills and many more:- <br>
+Vulnerability Assessment <br>
+Penetration Testing <br>
+Web Application Testing  <br>
+Firewall & IDS/IPS  Configuration <br>
+SIEM <br>
+Password Cracking <br>
+Network Scanning <br>
+Metasploit Framework <br>
+Wireshark <br>
+Kali Linux <br>
 
 ## Projects
 <table>
